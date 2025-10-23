@@ -11,7 +11,7 @@ Sistema de Gestão de Hotel
 - JDBC
 
 ## 👥 Time de Desenvolvedores
-- Nicollas M. De Ré (coloque os nomes do grupo aqui se tiver mais integrantes)
+- Nicollas M. De Ré 
 
 ## 🎯 Objetivo do Software
 O objetivo do sistema é automatizar e simplificar os processos de um hotel, como o cadastro de hóspedes, gerenciamento de reservas e cálculo de despesas. A aplicação desktop oferece uma interface amigável e funcional para funcionários e gestores do hotel.
